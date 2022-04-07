@@ -18,4 +18,4 @@ const user = connection.define("user", {
   },
 });
 
-module.exports = User;
+module.exports = user;
